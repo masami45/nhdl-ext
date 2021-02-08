@@ -12,6 +12,12 @@ for **Firefox**
 3. click `Load Temporary Add-on...` and select the file inside `nhdl-button-replacer` folder
 4. done!
 
+or with .zip file
+
+2. access `about:config`
+3. change `xpinstall.signatures.required` to `false`
+4. move the .zip file to `about:addons` then click `add`
+
 for **Chrome**
 
 2. access `chrome://extensions`
